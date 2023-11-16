@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Naman Bansal</h1>
 <img align="right" alt="Coding" src="https://infynno.com/wp-content/uploads/2022/01/infynno-solutions.gif">
 <h3 align="center">Full Stack Developer: Where creativity meets code, and innovation becomes interactive.</h3>
-<img align="right" alt="Coding" width="400" src="https://so-development.org/wp-content/uploads/2021/11/full-stack-development.gif">
+<img align="right" alt="Coding" width="350" src="https://so-development.org/wp-content/uploads/2021/11/full-stack-development.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=namanb454&label=Profile%20views&color=0e75b6&style=flat" alt="namanb454" /> </p>
 

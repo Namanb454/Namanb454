@@ -9,6 +9,10 @@
 
 - 🌱 I’m currently learning: **Machine Learning**
 
+- Full Stack Developer At **Mode Verse**
+
+- Ex-intern at **Coding Ninjas**
+
 - 👯 Always ready to collaborate **on different projects.**
 
 - 👨‍💻 My Personal Portfolio link: [Naman Bansal](https://personal-portfolio-five-puce.vercel.app/)

@@ -15,7 +15,7 @@
 
 - 👯 Always ready to collaborate **on different projects.**
 
-- 👨‍💻 My Personal Portfolio link: [Naman Bansal](https://personal-portfolio-five-puce.vercel.app/)
+- 👨‍💻 My Personal Portfolio link: [Naman Bansal](https://naman-bansal-portfolio.vercel.app/)
 
 - 💬 Ask me about: **MERN, Django, MySQL, Cricket & Badminton.**
 

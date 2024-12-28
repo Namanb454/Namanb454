@@ -5,13 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=namanb454&label=Profile%20views&color=0e75b6&style=flat" alt="namanb454" /> </p>
 
-- 🔭 I’m currently working on my SMM Agency: [siteScript](https://www.sitescript.in/)
-
 - 🌱 I’m currently learning: **Machine Learning**
 
-- Full Stack Developer At **Mode Verse**
+- SDE At **Techype**
 
-- Ex-intern at **Coding Ninjas**
+- Ex-intern at **Coding Ninjas, Model Verse**
 
 - 👯 Always ready to collaborate **on different projects.**
 
@@ -20,8 +18,6 @@
 - 💬 Ask me about: **MERN, Django, MySQL, Cricket & Badminton.**
 
 - 📫 How to reach me: **namanb454@gmail.com**
-
-- 📄 To know more about me: [https://drive.google.com/file/d/1D9j7BDkO0QfbwzfRfsdiiWIdWBDLiS3l/view?usp=sharing](https://drive.google.com/file/d/1D9j7BDkO0QfbwzfRfsdiiWIdWBDLiS3l/view?usp=sharing)
 
 - ⚡ Fun fact: **After getting bored with coding, I would escape by hitting the road and enjoying a bike ride.**
 
